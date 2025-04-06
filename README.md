@@ -1,0 +1,1 @@
+This is a python script to recursively decode Base64 encoded strings within a file or from a user input string.  It will decode a string and its output while the string is still identified as a Base64 encoded.  
